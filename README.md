@@ -1,7 +1,7 @@
 # Chat-App
 Python chat application (multi)client-server model
 
-# This is simple chat application implemented in Python 3.x using TCP/IP
+# This is simple chat application implemented in Python3 using TCP/IP
 
 You can have multiple clients connecting to the server. The above program runns in you local host i.e 127.0.0.1
 Underneat it use the standard Unix select() function.
