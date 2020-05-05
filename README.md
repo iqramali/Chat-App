@@ -1,4 +1,4 @@
-# Chat_App
+# Chat-App
 Python chat application (multi)client-server model
 
 # This is simple chat application implemented in Python 3.x using TCP/IP
