@@ -35,3 +35,8 @@ remotely to LAN interface IP
     4. Connect to a given ip and port
     5. Set connection to non-blocking state, so .recv() call won;t block, just return some exception we'll handle
     6. Prepare username and header and send them
+    
+  
+  ### Chat-App CLI output
+  
+  <p align="center"><img src="output.png" alt="Chat-App output"></p>
